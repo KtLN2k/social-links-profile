@@ -68,8 +68,8 @@ Feel free to reach out or follow me:
 
 - 📧 [Email](mailto:ben.katalan10@email.com)
 - 🌐 [A2Studio](https://a2-studio.co.il)
-- 💼 [LinkedIn](https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/ben-katalan-40150614b/))
-- 🐱 [GitHub](https://github.com/yourgithub](https://github.com/KtLN2k/))
+- 💼 [LinkedIn](https://www.linkedin.com/in/ben-katalan-40150614b/)
+- 🐱 [GitHub](https://github.com/KtLN2k/)
 
 ---
 
