@@ -3,8 +3,6 @@
 A simple and elegant personal profile card created as part of my UX/UI practice.  
 Built using **HTML**, **CSS**, and a touch of minimalist design thinking.
 
-![Ben Katalan Profile Screenshot](./f11e1e32-6083-479d-b418-d00f5f88ab15.png)
-
 ---
 
 ## 🧠 About This Project
@@ -45,11 +43,6 @@ This page is part of my personal growth journey as a **Front-End Developer** and
 
 ---
 
-## 📸 Screenshot
-
-![Screenshot of the profile card](./f11e1e32-6083-479d-b418-d00f5f88ab15.png)
-
----
 
 ## 🧩 What I Learned
 
